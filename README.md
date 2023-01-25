@@ -1,4 +1,6 @@
 # Homework 2 - Getting to know Figma
+## This is in addition to the original read me
+please use this link for a better experience [My resume](https://www.figma.com/file/O4HuVjkK3aguoVFP8Rcb6Z/Resume-Hw?node-id=43%3A281&t=fi8HxaVenbFPktkg-0)
 
 [Figma](https://www.figma.com/) is the design tool of choice for CMSC 475, and for many other companies, too!
 
